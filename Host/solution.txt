@@ -1,5 +1,0 @@
-1. Use a QWERTY to DVORAK translator (http://wbic16.xedoloh.com/dvorak.html) to translate to qwerty, then look for flag.
-
-2. Manually translate from DVORAK to QWERTY, then look for the flag.
-
-Note that the flag is replacing the word "flag" in the article.
