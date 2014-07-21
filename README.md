@@ -1,6 +1,6 @@
 # README #
 
-This Repo contains both the QWERTY and DVORAK translations of the Dvorak Keyboard layout's wikipedia page. (http://en.wikipedia.org/wiki/Dvorak_Simplified_Keyboard)
+Description: This Repo contains both the QWERTY and DVORAK translations of the Dvorak Keyboard layout's wikipedia page. (http://en.wikipedia.org/wiki/Dvorak_Simplified_Keyboard)
 On the page, there is one instance of the word flag, which in the challenge was replaced with the flag as shown below.
 
 Flag: da39a3ee5e6b4b0d3255bfef95601890afd80709
